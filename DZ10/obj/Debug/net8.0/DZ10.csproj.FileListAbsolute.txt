@@ -1,0 +1,15 @@
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.AssemblyInfoInputs.cache
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.AssemblyInfo.cs
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.sourcelink.json
+C:\Users\Анастасия\source\repos\DZ10\bin\Debug\net8.0\DZ10.exe
+C:\Users\Анастасия\source\repos\DZ10\bin\Debug\net8.0\DZ10.deps.json
+C:\Users\Анастасия\source\repos\DZ10\bin\Debug\net8.0\DZ10.runtimeconfig.json
+C:\Users\Анастасия\source\repos\DZ10\bin\Debug\net8.0\DZ10.dll
+C:\Users\Анастасия\source\repos\DZ10\bin\Debug\net8.0\DZ10.pdb
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.dll
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\refint\DZ10.dll
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.pdb
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\DZ10.genruntimeconfig.cache
+C:\Users\Анастасия\source\repos\DZ10\obj\Debug\net8.0\ref\DZ10.dll
