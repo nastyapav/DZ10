@@ -1,0 +1,15 @@
+C:\Users\Анастасия\source\repos\Tumakov12\bin\Debug\net8.0\Tumakov12.exe
+C:\Users\Анастасия\source\repos\Tumakov12\bin\Debug\net8.0\Tumakov12.deps.json
+C:\Users\Анастасия\source\repos\Tumakov12\bin\Debug\net8.0\Tumakov12.runtimeconfig.json
+C:\Users\Анастасия\source\repos\Tumakov12\bin\Debug\net8.0\Tumakov12.dll
+C:\Users\Анастасия\source\repos\Tumakov12\bin\Debug\net8.0\Tumakov12.pdb
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.AssemblyInfoInputs.cache
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.AssemblyInfo.cs
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.sourcelink.json
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.dll
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\refint\Tumakov12.dll
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.pdb
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\Tumakov12.genruntimeconfig.cache
+C:\Users\Анастасия\source\repos\Tumakov12\obj\Debug\net8.0\ref\Tumakov12.dll
